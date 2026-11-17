@@ -1,2 +1,2 @@
 # Functional-Testing-and-Verification-of-an-FPGA-Based-Helicity-Signal-Generator
-This repo presents my work done during Jefferson Lab Internship as an Electrical Engineering Inten
+Tested an FPGA-based signal generator as part of electrical engineering work at Jefferson Lab. Configured and evaluated FPGA functionality using C++, VHDL, and Xilinx Vivado, while using oscilloscopes and function generators to characterize and validate generated signals.
